@@ -131,9 +131,8 @@ export default function PhuongThucSanXuat1() {
         </div>
         <div className="border-2 border-black rounded-xl p-4 flex items-center">
           <p className="text-xs italic text-muted-foreground">
-            "Người ta không thể sản xuất được nếu không kết hợp
-            với nhau theo một cách nào đó để hoạt động chung và
-            để trao đổi hoạt động với nhau." — C.Mác
+            "Người ta không thể sản xuất được nếu không kết hợp với nhau theo một cách nào đó để hoạt động chung và để trao đổi hoạt động với nhau. Muốn sản xuất được, người ta phải có những mối liên hệ và quan hệ nhất định với nhau; và quan hệ của họ với giới tự nhiên, tức là việc sản xuất"
+            — C.Mác (tr 158)
           </p>
         </div>
       </div>

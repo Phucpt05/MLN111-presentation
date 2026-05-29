@@ -132,10 +132,8 @@ export default function CoSoHaTang() {
           {/* Quote */}
           <div className="border-2 border-black rounded-xl p-4">
             <p className="text-xs italic text-muted-foreground leading-relaxed">
-              "Toàn bộ những quan hệ sản xuất ấy hợp thành cơ
-              cấu kinh tế của xã hội, tức là cái cơ sở hiện thực
-              trên đó dựng lên một kiến trúc thượng tầng pháp lý
-              và chính trị." — C.Mác
+              "Toàn bộ những quan hệ sản xuất ấy hợp thành cơ cấu kinh tế của xã hội, tức là cái cơ sở hiện thực trên đó dựng lên một kiến trúc thượng tầng pháp lý và chính trị và những hình thái ý thức xã hội nhất định tương ứng với cơ sở hiện thực đó"
+              — C.Mác (tr 166)
             </p>
           </div>
 
