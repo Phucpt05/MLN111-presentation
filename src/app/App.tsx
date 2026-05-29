@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import SlideLayout from "./components/SlideLayout";
 import Hero from "./components/slides/Hero";
+import ComicSlide from "./components/slides/ComicSlide";
 import SanXuatVatChat from "./components/slides/SanXuatVatChat";
 import TinhHuong from "./components/slides/TinhHuong";
 import PhuongThucSanXuat1 from "./components/slides/PhuongThucSanXuat1";
@@ -26,6 +27,12 @@ export default function App() {
       element: <Hero />,
       title: "Trang chủ",
       section: null,
+    },
+    {
+      path: "/comic",
+      element: <ComicSlide />,
+      title: "Comic",
+      section: 0,
     },
     {
       path: "/san-xuat",
